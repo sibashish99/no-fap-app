@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.5a0dfc28.css",
-    "main.js": "/static/js/main.8ab2b246.js",
-    "static/js/453.88b899aa.chunk.js": "/static/js/453.88b899aa.chunk.js",
-    "index.html": "/index.html",
-    "main.5a0dfc28.css.map": "/static/css/main.5a0dfc28.css.map",
-    "main.8ab2b246.js.map": "/static/js/main.8ab2b246.js.map",
-    "453.88b899aa.chunk.js.map": "/static/js/453.88b899aa.chunk.js.map"
+    "main.css": "/no-fap-app/static/css/main.5a0dfc28.css",
+    "main.js": "/no-fap-app/static/js/main.209969b8.js",
+    "static/js/453.88b899aa.chunk.js": "/no-fap-app/static/js/453.88b899aa.chunk.js",
+    "index.html": "/no-fap-app/index.html",
+    "main.5a0dfc28.css.map": "/no-fap-app/static/css/main.5a0dfc28.css.map",
+    "main.209969b8.js.map": "/no-fap-app/static/js/main.209969b8.js.map",
+    "453.88b899aa.chunk.js.map": "/no-fap-app/static/js/453.88b899aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a0dfc28.css",
-    "static/js/main.8ab2b246.js"
+    "static/js/main.209969b8.js"
   ]
 }
