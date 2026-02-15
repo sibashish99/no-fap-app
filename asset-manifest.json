@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/no-fap-app/static/css/main.fc8a36fe.css",
+    "main.css": "/no-fap-app/static/css/main.f61acf95.css",
     "main.js": "/no-fap-app/static/js/main.49d5e9f5.js",
     "static/js/453.88b899aa.chunk.js": "/no-fap-app/static/js/453.88b899aa.chunk.js",
     "index.html": "/no-fap-app/index.html",
-    "main.fc8a36fe.css.map": "/no-fap-app/static/css/main.fc8a36fe.css.map",
+    "main.f61acf95.css.map": "/no-fap-app/static/css/main.f61acf95.css.map",
     "main.49d5e9f5.js.map": "/no-fap-app/static/js/main.49d5e9f5.js.map",
     "453.88b899aa.chunk.js.map": "/no-fap-app/static/js/453.88b899aa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc8a36fe.css",
+    "static/css/main.f61acf95.css",
     "static/js/main.49d5e9f5.js"
   ]
 }
